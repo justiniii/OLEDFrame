@@ -2,6 +2,8 @@
 
 A self-contained, single-file web app that converts any video into monochrome bitmap frames ready to display on an SSD1306 or SH1106 OLED using the Adafruit library. No installation, no server — just open `oled-video-converter.html` in a browser. Please note all code was generated with Claude code.
 
+You can try it out on my github page: https://justiniii.github.io/OLEDFrame/
+
 ---
 
 ## Features
